@@ -1,0 +1,35 @@
+body {
+  padding: 2vh 2vw;
+  text-transform: lowercase;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+table {
+  width: 100%;
+}
+
+th,
+td {
+  width: 25%;
+  border: 1px solid #a9a9a9;
+  padding: 5px;
+}
+
+h2 {
+  margin: 20px 0 !important;
+}
+
+section {
+  display: block;
+  background: #fff;
+  margin: 20px 0 !important;
+  padding: 10px;
+}
+.result {
+  padding: 10px 0;
+  font-size: 30px;
+}
